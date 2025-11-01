@@ -1,19 +1,3 @@
-
-
-<!--
-**EvgeniGenchev07/EvgeniGenchev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hi, I'm Evgeni Genchev
 
 💻 **Full-Stack Developer | Mobile & Desktop App Creator | Cybersecurity Enthusiast**
@@ -51,15 +35,13 @@ I thrive on solving complex problems, crafting efficient software, and continuou
 ## 🧩 Tools & Environments
 - **Operating Systems:** Kali Linux | Fedora | Windows  
 - **Version Control:** Git & GitHub  
-- **Frameworks & Tools:** Visual Studio, VS Code, Postman, npm, Gulp, Expo  
+- **Frameworks & Tools:** Visual Studio, VS Code, Rider, Webstorm, PyCharm, Postman, npm, Gulp, Expo, Firebase  
 
 ---
 
-## 🌍 Portfolio & Links
+## 🌍 Links
 
-- 🌐 **Portfolio:** [evgenigenchev.dev](https://evgenigenchev.dev)  
-- 💼 **LinkedIn:** [linkedin.com/in/evgenigenchev](https://linkedin.com/in/evgenigenchev)  
-*(Replace with your real URLs if needed.)*
+- 🌐 **Instagram:** [@evo_techie](https://instagram.com/evo_techie)  
 
 ---
 
@@ -67,6 +49,8 @@ I thrive on solving complex problems, crafting efficient software, and continuou
 
 ![Evgeni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvgeniGenchev07&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniGenchev07&layout=compact&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=EvgeniGenchev07&theme=tokyonight&no-frame=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvgeniGenchev07&theme=tokyonight)
 
 ---
 
@@ -79,7 +63,7 @@ I thrive on solving complex problems, crafting efficient software, and continuou
 
 ## 📫 Contact Me
 
-📧 **Email:** evgenigenchev@protonmail.com  
+📧 **Email:** gevgenig@gmail.com  
 💬 **GitHub:** [github.com/EvgeniGenchev07](https://github.com/EvgeniGenchev07)  
 
 ---
