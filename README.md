@@ -68,5 +68,5 @@ I thrive on solving complex problems, crafting efficient software, and continuou
 
 ---
 
-> _"Code with purpose. Secure with precision. Evolve with curiosity."_  
+> _"I don't seek to be well known, I seek to be worth knowing."_  
 > — Evgeni Genchev
