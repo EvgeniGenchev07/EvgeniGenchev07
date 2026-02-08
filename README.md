@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 I’m a passionate developer with experience building **web**, **mobile**, and **desktop applications** using a wide range of modern technologies.  
-Currently, I’m expanding my expertise in **ethical hacking and cybersecurity**, studying for the **Certified Ethical Hacker (CEH)** certification at **EC-Council**.  
+I’m expanding my expertise in **ethical hacking and cybersecurity**, progressing through levels 1-3 at **ThinkCyber**.  
 
 I thrive on solving complex problems, crafting efficient software, and continuously learning about system security, performance optimization, and modern development practices.
 
@@ -16,7 +16,7 @@ I thrive on solving complex problems, crafting efficient software, and continuou
 ## ⚙️ Tech Stack
 
 ### 💡 Languages
-- **Python**, **JavaScript**, **C#**, **C**
+- **Python**, **JavaScript**, **C#**, **C**, **C++**, **BASH**
 
 ### 🌐 Web Development
 - **HTML**, **CSS**, **Node.js**, **ASP.NET**, **Gulp**
@@ -55,7 +55,7 @@ I thrive on solving complex problems, crafting efficient software, and continuou
 ---
 
 ## 🧠 Currently Learning
-- Certified Ethical Hacker (CEH) – EC-Council  
+- Levels 1-3 at ThinkCyber 
 - Advanced Network Security  
 - Secure Software Development Practices  
 
